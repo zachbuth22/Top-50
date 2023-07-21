@@ -1,0 +1,15 @@
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/obj/Debug/net6.0/Wide Receiver Analyzer.csproj.AssemblyReference.cache
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/obj/Debug/net6.0/Wide Receiver Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/obj/Debug/net6.0/Wide Receiver Analyzer.AssemblyInfoInputs.cache
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/obj/Debug/net6.0/Wide Receiver Analyzer.AssemblyInfo.cs
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/obj/Debug/net6.0/Wide Receiver Analyzer.csproj.CoreCompileInputs.cache
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/bin/Debug/net6.0/Wide Receiver Analyzer
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/bin/Debug/net6.0/Wide Receiver Analyzer.deps.json
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/bin/Debug/net6.0/Wide Receiver Analyzer.runtimeconfig.json
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/bin/Debug/net6.0/Wide Receiver Analyzer.dll
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/bin/Debug/net6.0/Wide Receiver Analyzer.pdb
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/obj/Debug/net6.0/Wide Receiver Analyzer.dll
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/obj/Debug/net6.0/refint/Wide Receiver Analyzer.dll
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/obj/Debug/net6.0/Wide Receiver Analyzer.pdb
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/obj/Debug/net6.0/Wide Receiver Analyzer.genruntimeconfig.cache
+/Users/zachbuth/Projects/Wide Receiver Analyzer/Wide Receiver Analyzer/obj/Debug/net6.0/ref/Wide Receiver Analyzer.dll
